@@ -1,0 +1,16 @@
+cd Users\MODERN\Downloads\My-gitProject\Git_Project
+git status
+git add >>file<<
+git commit -m " "
+git reset head >>file<<
+git pull origin
+git push origin master
+git config -l
+git help config
+git config --global user.email
+ssh-keygen -t rsa -b 4096 -v "gmail"
+cat ----> بيجيب المحتوي بتاع الفايل 
+touch ----> بيكريت فايل جديد 
+cat ~/.ssh/id_rsa.pub
+ssh -T git@github.com
+git init
